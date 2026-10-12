@@ -1,43 +1,27 @@
-## Hi there, I’m Ximena 👋
+# Hi, I'm Ximena
 
-<!--
-**gk-Ximena/gk-Ximena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer and UI designer based in Port Coquitlam, BC. I design interfaces in Figma and build them with React, TypeScript and Rust. Recent Computer Studies graduate from Langara College (Dean's Honour Roll), open to junior front-end and designer-engineer roles.
 
-Here are some ideas to get you started:
+**Portfolio:** [gk-ximena-alvarez.ximenalvarezmontoya.workers.dev](https://gk-ximena-alvarez.ximenalvarezmontoya.workers.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m a Computer Studies student passionate about web development, backend logic, and clean, maintainable code. I enjoy building projects that solve real problems and help me grow as a developer.
+## Featured projects
 
-🔧 What I’m currently working on
-- Strengthening my skills in JavaScript, Node.js, and Express
+- **[Musicfy](https://github.com/gk-Ximena/Musicfy)**: a desktop widget (React, TypeScript, Rust/Tauri) that shows live YouTube Music info and sends playback commands back through a Chrome/Edge extension over a bidirectional WebSocket. Published as v1.0.0 with a Windows installer.
+- **[WasteManagement](https://github.com/gk-Ximena/WasteManagement)**: a two-person full-stack employee dashboard with React (Vite), Express and PostgreSQL. I built the React front end (6 pages, 7 components) on top of a 13-endpoint REST API.
+- **[VetFirstSteps](https://github.com/gk-Ximena/VetFirstSteps)**: a bilingual (English and Spanish) learning platform in PHP and MySQL with 30 filterable modules and a quiz. [Live site](https://gk-ximena.github.io/VetFirstSteps/).
 
-- Practicing database design and SQL
+## What I work with
 
-- Building small full‑stack projects to improve my workflow
+- **Front end:** JavaScript (ES6+), React, TypeScript, HTML5, CSS3, responsive design
+- **Back end and data:** Node.js, Express, PHP, PostgreSQL, MySQL, REST APIs, WebSockets, Rust (Tauri)
+- **Tools:** Git and GitHub, Postman, Figma, VS Code
 
-- Learning better architecture principles and clean code practices
+## Currently
 
-🛠️ Tools & Technologies I use
-- Languages: JavaScript, Python, HTML, CSS, Java, C++
+- Adding automated tests to my projects
+- Building a playable version of a clicker game I designed in Figma
 
-- Backend: Node.js, Express
+## Get in touch
 
-- Databases: MySQL, MongoDB
-
-- Version Control: Git & GitHub
-
-- Other: VS Code, Postman, Figma
-
-📫 How to reach me
-- Email: ximenalvarezmontoya@gmail.com
-
-- LinkedIn:[click here](https://www.linkedin.com/in/ximena-alvarez-01b691225/)
+[LinkedIn](https://www.linkedin.com/in/ximena-alvarez-01b691225/) · [Email](mailto:ximenalvarezmontoya@gmail.com)
 
